@@ -1,9 +1,24 @@
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Production-green)
-![GenAI](https://img.shields.io/badge/Generative%20AI-Systems-orange)
-![Cloud](https://img.shields.io/badge/Cloud-GCP-purple)
+<p align="center">
 
-<h1 align="center">Vikas</h1>
+<img src="https://img.shields.io/badge/Python-Expert-blue" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Production-green" />
+<img src="https://img.shields.io/badge/Generative%20AI-Systems-orange" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Data%20Engineering-Big%20Data-red" />
+<img src="https://img.shields.io/badge/Databricks-Platform-FF3621?logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-Distributed%20Compute-E25A1C?logo=apachespark&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-GCP-4285F4?logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoftazure&logoColor=white" />
+
+</p>
+
+<h1 align="center">Vikas Kumar Singh</h1>
 <h3 align="center">AI • Machine Learning • Generative AI Systems</h3>
 
 <p align="center">
@@ -59,55 +74,60 @@ Currently working as a **Data Science Manager**, while staying deeply hands-on w
 - Building **LLM inference systems on Linux/Ubuntu**
 - Exploring **Snap-based AI model deployment**
 - Architecting **scalable ML platforms on cloud**
-
+  
 ---
 
 ## ⭐ Featured Projects
 
-### 🧩 GenAI Service Platform
+### 📊 LLM-Augmented Weekly Business Review (WBR) System
 
-Scalable backend platform for deploying **LLM-powered services**.
+Enterprise analytics platform that automates **weekly and monthly executive business reviews** using LLM-generated insights over TB-scale transactional data.
 
-**Stack**
+flowchart LR
+    A[Transactional Data Sources] --> B[Data Lake / Warehouse]
+    B --> C[OLAP Analytics Pipeline]
+    C --> D[Feature Engineering Layer]
+    D --> E[LLM Insight Generation]
+    E --> F[FastAPI Service Layer]
+    F --> G[Executive Dashboards / Reports]
 
-- Python  
-- FastAPI  
-- Vector databases  
-- LLM orchestration  
-- Containerized inference  
+**Highlights**
 
-**Focus Areas**
+- OLAP-first analytics pipeline for high-volume business reporting  
+- Feature engineering for consistent enterprise metrics  
+- LLM-based narrative insight generation with cost/latency optimization  
+- FastAPI architecture separating analytics, services, and AI inference  
+- Governance via caching, rate limiting, and budget controls  
 
-- scalable inference
-- RAG pipelines
-- modular LLM integrations
-- AI microservices
-
----
-
-### 🔬 Production ML Pipeline Framework
-
-Reusable framework for building **production-grade ML pipelines**.
-
-Capabilities:
-
-- automated feature pipelines
-- model training orchestration
-- experiment tracking
-- deployment workflows
+➡️ Full case study
+https://singhvks.github.io/Vikas-CV/case-studies/category-analytics-agentic/
 
 ---
 
-### 📘 AI System Design Notes
+### 🗺 Geospatial ML Platform for Retail Site Selection & Sales Forecasting
 
-A collection of **practical system design patterns** covering:
+Production geospatial ML system supporting **new retail site selection and 3-year sales forecasting** for a **$10B+ retailer with 2,500+ locations**.
 
-- GenAI architectures
-- ML infrastructure
-- scaling AI services
-- production inference
+flowchart LR
+    A[Geospatial Datasets] --> B[Databricks + Spark Feature Engineering]
+    B --> C[Trade Area Modeling]
+    C --> D[XGBoost Forecasting Models]
+    D --> E[Explainability Layer SHAP]
+    E --> F[MLflow Model Registry]
+    F --> G[Serverless Model Serving]
+    G --> H[Real Estate Decision Platform]
 
-Designed for **senior AI / ML engineering interviews and architecture discussions**.
+**Highlights**
+
+- Large-scale geospatial feature engineering using Spark and Databricks  
+- Dual trade-area modeling using drive-time isochrones and radial distance  
+- Cold-start modeling via clustering-based “statistical twins”  
+- Multi-category XGBoost forecasting architecture  
+- Explainability-first design using SHAP for executive trust  
+- Production deployment using MLflow, Delta Lake, and serverless serving  
+
+➡️ Full case study
+https://singhvks.github.io/Vikas-CV/case-studies/site-selection-nti/
 
 ---
 
