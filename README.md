@@ -100,8 +100,7 @@ flowchart LR
 - FastAPI architecture separating analytics, services, and AI inference  
 - Governance via caching, rate limiting, and budget controls  
 
-➡️ Full case study
-https://singhvks.github.io/Vikas-CV/case-studies/category-analytics-agentic/
+➡️ [Full case study](https://singhvks.github.io/Vikas-CV/case-studies/category-analytics-agentic/)
 
 ---
 
@@ -128,8 +127,7 @@ flowchart LR
 - Explainability-first design using SHAP for executive trust  
 - Production deployment using MLflow, Delta Lake, and serverless serving  
 
-➡️ Full case study
-https://singhvks.github.io/Vikas-CV/case-studies/site-selection-nti/
+➡️ [Full case study](https://singhvks.github.io/Vikas-CV/case-studies/site-selection-nti/)
 
 ---
 
