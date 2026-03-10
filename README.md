@@ -92,7 +92,6 @@ flowchart LR
     E --> F[FastAPI Service Layer]
     F --> G[Executive Dashboards / Reports]
 ```
-
 **Highlights**
 
 - OLAP-first analytics pipeline for high-volume business reporting  
