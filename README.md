@@ -83,13 +83,15 @@ Currently working as a **Data Science Manager**, while staying deeply hands-on w
 
 Enterprise analytics platform that automates **weekly and monthly executive business reviews** using LLM-generated insights over TB-scale transactional data.
 
-'''mermaid
+```mermaid
+flowchart LR
     A[Transactional Data Sources] --> B[Data Lake / Warehouse]
     B --> C[OLAP Analytics Pipeline]
     C --> D[Feature Engineering Layer]
     D --> E[LLM Insight Generation]
     E --> F[FastAPI Service Layer]
     F --> G[Executive Dashboards / Reports]
+```
 
 **Highlights**
 
@@ -108,7 +110,8 @@ https://singhvks.github.io/Vikas-CV/case-studies/category-analytics-agentic/
 
 Production geospatial ML system supporting **new retail site selection and 3-year sales forecasting** for a **$10B+ retailer with 2,500+ locations**.
 
-'''mermaid
+```mermaid
+flowchart LR
     A[Geospatial Datasets] --> B[Databricks + Spark Feature Engineering]
     B --> C[Trade Area Modeling]
     C --> D[XGBoost Forecasting Models]
@@ -116,7 +119,7 @@ Production geospatial ML system supporting **new retail site selection and 3-yea
     E --> F[MLflow Model Registry]
     F --> G[Serverless Model Serving]
     G --> H[Real Estate Decision Platform]
-
+```
 **Highlights**
 
 - Large-scale geospatial feature engineering using Spark and Databricks  
