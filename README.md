@@ -29,7 +29,7 @@ Building <b>production-grade AI systems that scale</b>
 
 ## 👨‍💻 About Me
 
-I work at the intersection of **Machine Learning, Distributed Systems, and Generative AI**, focusing on turning research ideas into **reliable production platforms**.
+I enable enterprises with **reliable production platforms** using **Machine Learning, Distributed Systems, and Generative AI** supporting their business use cases.
 
 Currently working as a **Data Science Manager**, while staying deeply hands-on with:
 
@@ -65,6 +65,7 @@ Currently working as a **Data Science Manager**, while staying deeply hands-on w
 - GPU inference optimization
 - Scalable microservices
 - Containerized deployments
+- Enabling AI governance
 
 ---
 
