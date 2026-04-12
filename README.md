@@ -31,8 +31,6 @@ Building <b>production-grade AI systems that scale</b>
 
 I enable enterprises with **reliable production platforms** using **Machine Learning, Distributed Systems, and Generative AI** supporting their business use cases.
 
-Currently working as a **Data Science Manager**, while staying deeply hands-on with:
-
 - AI system architecture  
 - model development  
 - scalable ML infrastructure  
